@@ -15,10 +15,9 @@ If you believe you've found a security vulnerability in the software, we encoura
 
 To report a vulnerability, please follow these steps:
 
-1. Create a new issue in our GitHub repository.
-2. Prefix the issue title with `[SEC]`.
-3. Provide as much detail as possible, including steps to reproduce the vulnerability if applicable.
+1. Create a new issue with the `security volnerability`-template
+2. Provide as much detail as possible, including steps to reproduce the vulnerability if possible.
 4. We will review your report and respond as soon as possible with any additional questions or confirmation of receipt.
-5. Once the vulnerability is confirmed, we will work to address it in a future release.
+4. Once the vulnerability is confirmed, we will work to address it as soon as possible within the next patch.
 
 We appreciate your help.
