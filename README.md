@@ -1,6 +1,6 @@
 # sqk
 
-A lightweight, vim-like terminal database explorer.
+A lightweight, vim-inspired terminal database explorer.
 
 ## Table of Contents
 
