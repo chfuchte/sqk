@@ -28,12 +28,8 @@ jobs:
                       os: macos-latest
                     - target: x86_64-apple-darwin # Intel
                       os: macos-latest
-                    - target: universal-apple-darwin # Universal
-                      os: macos-latest
                     # Windows
                     - target: x86_64-pc-windows-msvc # 64-bit
-                      os: windows-latest
-                    - target: i686-pc-windows-msvc # 32-bit
                       os: windows-latest
                     - target: aarch64-pc-windows-msvc # ARM64
                       os: windows-latest
